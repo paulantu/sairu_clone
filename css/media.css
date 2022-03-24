@@ -1,0 +1,503 @@
+@media (max-width: 360px) {
+    
+    /*=============================================================
+    top section start
+    ==========================================================*/
+
+    .topMenu{
+        min-height: 50px;
+        font-size: 10px;
+        font-weight: 500;
+    }
+    .topMenu i{
+        line-height: 40px;
+        font-size: 20px;
+        font-weight: 600;
+    }
+
+
+    /*=============================================================
+    top section end
+    ==========================================================*/
+
+
+
+
+
+
+
+        /*=============================================================
+    nav section start
+    ==========================================================*/
+
+    .navbar-collapse{
+        padding-bottom: 30px;
+    }
+    .carousel-inner{
+        height: auto;
+    }
+    .navMenues > ul > li{
+        padding: 5px 20px;
+        color: #8d9096;
+        font-weight: 600;
+    }
+    .dropDown{
+        box-shadow: 0px 4px 17px -4px;
+        display: none;
+        width: 100%;
+        background-color: #ffffff;
+        text-align: center;
+    }
+    
+
+
+    /*=============================================================
+    nav section end
+    ==========================================================*/
+
+
+
+
+
+    /*=============================================================
+    resort introduction section start
+    ==========================================================*/
+
+
+    .introductionSection{
+        margin-top:25px!important;
+        text-align: center;
+    }
+    .introductionTextContent{
+        padding: 0px!important;
+    }
+    .ourResortImage, .ourStoryImage{
+        padding: 0px!important;
+    }
+    .ourStoryTextContent{
+        padding-left: 0px!important;
+    }
+
+
+
+/*=============================================================
+    resort introduction section end
+==========================================================*/
+
+
+
+
+
+/*=============================================================
+    newsletter section start
+==========================================================*/
+
+
+    .roomImage{
+        margin-bottom: 50px;
+    }
+    .subscribeButton button{
+        margin: 15px 60px;
+    }
+
+
+/*=============================================================
+    newsletter section end
+==========================================================*/
+
+
+
+
+/*=============================================================
+    footer section start
+==========================================================*/
+
+
+    .footerBottomRight{
+        text-align: start;
+    }
+    .footerNavbar{
+        padding-top: 21px;
+    }
+    .footerNavbar > nav{
+        line-height: 22px!important;
+    }
+
+/*=============================================================
+    footer section end
+==========================================================*/
+}
+
+
+@media (max-width: 375px) {
+    
+    /*=============================================================
+    top section start
+    ==========================================================*/
+
+    .topMenu{
+        min-height: 50px;
+        font-size: 10px;
+        font-weight: 500;
+    }
+    .topMenu i{
+        line-height: 40px;
+        font-size: 20px;
+        font-weight: 600;
+    }
+
+
+    /*=============================================================
+    top section end
+    ==========================================================*/
+
+
+
+
+
+
+
+        /*=============================================================
+    nav section start
+    ==========================================================*/
+
+    .navbar-collapse{
+        padding-bottom: 30px;
+    }
+    .carousel-inner{
+        height: auto;
+    }
+    .navMenues > ul > li{
+        padding: 5px 20px;
+        color: #8d9096;
+        font-weight: 600;
+    }
+    .dropDown{
+        box-shadow: 0px 4px 17px -4px;
+        display: none;
+        width: 100%;
+        background-color: #ffffff;
+        text-align: center;
+    }
+    
+
+
+    /*=============================================================
+    nav section end
+    ==========================================================*/
+
+
+
+
+
+    /*=============================================================
+    resort introduction section start
+    ==========================================================*/
+
+
+    .introductionSection{
+        margin-top:25px!important;
+        text-align: center;
+    }
+    .introductionTextContent{
+        padding: 0px!important;
+    }
+    .ourResortImage, .ourStoryImage{
+        padding: 0px!important;
+    }
+    .ourStoryTextContent{
+        padding-left: 0px!important;
+    }
+
+
+
+/*=============================================================
+    resort introduction section end
+==========================================================*/
+
+
+
+
+
+/*=============================================================
+    newsletter section start
+==========================================================*/
+
+
+    .roomImage{
+        margin-bottom: 50px;
+    }
+    .subscribeButton button{
+        margin: 15px 63px;
+    }
+
+
+/*=============================================================
+    newsletter section end
+==========================================================*/
+
+
+
+
+/*=============================================================
+    footer section start
+==========================================================*/
+
+
+    .footerBottomRight{
+        text-align: start;
+    }
+    .footerNavbar{
+        padding-top: 21px;
+    }
+    .footerNavbar > nav{
+        line-height: 22px!important
+    }
+
+/*=============================================================
+    footer section end
+==========================================================*/
+}
+
+
+@media (max-width: 411px), (max-width: 414px) {
+    
+    /*=============================================================
+    top section start
+    ==========================================================*/
+
+    .topMenu{
+        min-height: 50px;
+        font-size: 10px;
+        font-weight: 500;
+    }
+    .topMenu i{
+        line-height: 40px;
+        font-size: 20px;
+        font-weight: 600;
+    }
+
+
+    /*=============================================================
+    top section end
+    ==========================================================*/
+
+
+
+
+
+
+
+        /*=============================================================
+    nav section start
+    ==========================================================*/
+
+    .navbar-collapse{
+        padding-bottom: 30px;
+    }
+    .carousel-inner{
+        height: auto;
+    }
+    .navMenues > ul > li{
+        padding: 5px 20px;
+        color: #8d9096;
+        font-weight: 600;
+    }
+    .dropDown{
+        box-shadow: 0px 4px 17px -4px;
+        display: none;
+        width: 100%;
+        background-color: #ffffff;
+        text-align: center;
+    }
+    
+
+
+    /*=============================================================
+    nav section end
+    ==========================================================*/
+
+
+
+
+
+    /*=============================================================
+    resort introduction section start
+    ==========================================================*/
+
+
+    .introductionSection{
+        margin-top:25px!important;
+        text-align: center;
+    }
+    .introductionTextContent{
+        padding: 0px!important;
+    }
+    .ourResortImage, .ourStoryImage{
+        padding: 0px!important;
+    }
+    .ourStoryTextContent{
+        padding-left: 0px!important;
+    }
+
+
+
+/*=============================================================
+    resort introduction section end
+==========================================================*/
+
+
+
+
+
+/*=============================================================
+    newsletter section start
+==========================================================*/
+
+
+    .roomImage{
+        margin-bottom: 50px;
+    }
+    .subscribeButton button{
+        margin: 15px 81px;
+    }
+
+
+/*=============================================================
+    newsletter section end
+==========================================================*/
+
+
+
+
+/*=============================================================
+    footer section start
+==========================================================*/
+
+
+    .footerBottomRight{
+        text-align: start;
+    }
+    .footerNavbar{
+        padding-top: 21px;
+    }
+    
+    .footerNavbar > nav{
+        line-height: 22px!important
+    }
+
+/*=============================================================
+    footer section end
+==========================================================*/
+}
+
+
+@media (max-width: 1024px) {
+
+        /*=============================================================
+    nav section start
+    ==========================================================*/
+
+    .navbar-collapse{
+        padding-bottom: 30px;
+    }
+    .carousel-inner{
+        height: auto;
+    }
+    .navMenues > ul > li{
+        padding: 5px 20px;
+        color: #8d9096;
+        font-weight: 600;
+    }
+    .dropDown{
+        box-shadow: 0px 4px 17px -4px;
+        display: none;
+        width: 100%;
+        background-color: #ffffff;
+        text-align: center;
+    }
+    
+
+
+    /*=============================================================
+    nav section end
+    ==========================================================*/
+
+
+
+
+
+    /*=============================================================
+    resort introduction section start
+    ==========================================================*/
+
+    .ourResort{
+        margin: 50px 0;
+    }
+    .ourStoryTextContent {
+        padding-top: 0px!important;
+    }
+    .welcomeToResort img{
+        margin: 32px 0px;
+    }
+    .welcomeToResortTwo img{
+        margin: 39px 0px!important;
+    }
+    .ourResortTextContent p{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+/*=============================================================
+    resort introduction section end
+==========================================================*/
+
+
+
+
+
+/*=============================================================
+    newsletter section start
+==========================================================*/
+
+
+    .roomImage{
+        margin-bottom: 50px;
+    }
+    .subscribeButton button{
+        margin: 10px 63px;
+    }
+
+
+/*=============================================================
+    newsletter section end
+==========================================================*/
+
+
+
+
+/*=============================================================
+    footer section start
+==========================================================*/
+
+
+    .footerBottomRight{
+        text-align: start;
+    }
+    .footerNavbar{
+        padding-top: 21px;
+    }
+/*=============================================================
+    footer section end
+==========================================================*/
+}
+
+
+
+
+
+
+
+
+
+
