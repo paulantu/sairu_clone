@@ -566,8 +566,178 @@ footer section end
 
 
 
+/*=============================================================
+our story page start
+=============================================================*/
+
+
+.banner-img{
+    padding: 0!important;
+}
+
+
+
+.our-story{
+    margin: 20px 0;
+}
+.story-content h5{
+    margin-top: 20px;
+    color: #333333;
+    font-size: 16px;
+    font-weight: 700;
+}
+.story-content p{
+    font-weight: 400;
+    color: #464646;
+    font-size: 16px;
+    line-height:25px;
+    letter-spacing: 1px;
+}
+#content-slider{
+    margin-top: 52px;
+}
+#content-slider .carousel-indicators{
+    bottom: -75px;
+}
+#facelity-slider .carousel-indicators{
+    bottom: -75px;
+}
+#content-slider .carousel-indicators button{
+    background-color: #1D2025!important;
+}
+#facelity-slider .carousel-indicators button{
+    background-color: #1D2025!important;
+}
+#content-slider .carousel-inner{
+    height: auto !important;
+    border-radius: 15px;
+}
+#facelity-slider .carousel-inner{
+    height: auto !important;
+    border-radius: 15px;
+}
+.contact-button{
+    margin: 70px auto;
+}
+.contact-button a{
+    font-size: 18px;
+    padding: 14px 20px;
+}
+.story-content i{
+    color: #E5A73F;
+    font-size: 30px;
+}
+
+.shortcuts i{
+    color: #E5A73F;
+    font-size: 35px;
+}
+.shortcuts h4{
+    font-weight: 400 !important;
+    color: #333333 !important;
+    font-size: 22px !important;
+    line-height:14px;
+}
+.shortcuts p{
+    color: #979797;
+}
+.shortcuts .content{
+    padding-left: 25px;
+}
+.story-content span{
+    color: #E5A73F;
+    font-size: 20px;
+    font-weight: 500;
+    padding-left: 20px;
+}
+/*=============================================================
+our story page end
+=============================================================*/
 
 
 
 
 
+
+/*=============================================================
+accomodation page start
+=============================================================*/
+
+.facilities-point img{
+    width: 8%;
+    margin-right: 10px;
+}
+.facilities-point{
+    padding :10px 0;
+}
+.short-specification img{
+    width: 12%;
+}
+.around-resort p{
+    position: absolute;
+    margin-top: -35px !important;
+    margin-left: 20px;
+    font-size: 19px;
+    letter-spacing: 2px;
+    color: #ffffff;
+}
+.advantage h4 , .facilities h4{
+    font-weight: 400 !important;
+    color: #333333 !important;
+    font-size: 30px !important;
+    padding-bottom: 25px;
+}
+.description p, .short-specification p{
+    color: #979797;
+}
+.accommodationContent h1{
+    font-weight: 400 !important;
+    color: #333333 !important;
+    font-size: 35px !important;
+}
+.around-resort img{
+    border-radius: 15px;
+}
+
+.btn-info {
+    background-color:transparent !important;
+    border: 3px solid #C19B76!important;
+    border-radius: 0px!important;
+    font-size: 15px!important;
+    font-weight:500!important;
+    letter-spacing: 1px!important;
+    text-transform:uppercase;
+    color: #C19B76!important;
+    line-height:13px!important;
+
+}
+
+.room-content img{
+    width:15%;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.similar-room{
+    margin: 50px 0 80px 0;
+}
+.similar-room h1{
+    font-weight: 300;
+    color: #464646;
+    font-size: 40px;
+    line-height: 45px;
+}
+.half-border{
+    width: 3%!important;
+    height: 1px !important;
+    background-color: #464646!important;
+    margin-top: 20px !important;
+    margin-bottom:20px!important;
+}
+.icons{
+    border-radius: 0px!important;
+}
+
+/*=============================================================
+accomodation page end
+=============================================================*/
