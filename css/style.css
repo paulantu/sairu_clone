@@ -698,7 +698,17 @@ accomodation page start
 .around-resort img{
     border-radius: 15px;
 }
-
+.btn-contact{
+    background-color:#E29F2C!important;
+    border-radius: 0px!important;
+    font-size: 19px!important;
+    font-weight:700!important;
+    letter-spacing: 1px!important;
+    color: #ffffff!important;
+    line-height:13px!important;
+    padding: 20px 30px!important;
+    margin: 35px 55px;
+}
 .btn-info {
     background-color:transparent !important;
     border: 3px solid #C19B76!important;
@@ -738,6 +748,52 @@ accomodation page start
     border-radius: 0px!important;
 }
 
+
+.offer-content{
+    padding-left: 3rem;
+}
+
+.content h1{
+    color: #333333;
+}
+.contact-content h4{
+    color: #E5A73F;
+}
+.contact-content strong{
+    color: #4C4646;
+}
+.contact-content h2{
+    color: #E5A73F;
+    font-weight: 500;
+    font-size: 32px;
+    letter-spacing:2px;
+    margin-bottom: 20px;
+}
+.input-row .input-field{
+    margin-top: 70px!important;
+}
+.input-field input{
+    border-bottom: 3px solid #808080;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-radius: 0px;
+}
+.input-field textarea{
+    border: 3px solid #808080;
+    border-radius: 12px;
+    margin-top: 25px;
+    margin-top: 70px!important;
+}
+.contact-content p{
+    font-weight: 300;
+    color: #464646;
+    font-size: 19px;
+    line-height:35px
+}
+.faq-button i{
+    margin-right: 7px;
+}
 /*=============================================================
 accomodation page end
 =============================================================*/
