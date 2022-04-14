@@ -34,7 +34,13 @@ bootstrap default class modification css
 =============================================================*/
 
 .navbar{
+    background-color: rgba(37, 37, 37,0.40);
     padding: 0px 0px!important;
+    z-index: 1;
+}
+.fix-nav{
+    background-color: rgba(37, 37, 37,0.40);
+    transition: 0.9s;
 }
 .nav-link {
     color:#E5A73F!important;
@@ -170,9 +176,13 @@ navbar section end
 /*=============================================================
 slider section start
 =============================================================*/
-
+.slider{
+    position: relative;
+    top: -108px;
+}
 .resortCarauselBody{
     padding: 0px!important;
+    position: relative!important;
 }
 .carauselControlButton span{
     color: #E5A73F;
